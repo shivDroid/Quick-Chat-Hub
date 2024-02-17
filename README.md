@@ -17,7 +17,7 @@ Quick Chat Hub is my first full-stack project—a real-time chat application bui
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/chatterwave.git`
+1. Clone the repository: `git clone https://github.com/shivDroid/quick-chat-hub.git`
 2. Install dependencies: `npm install`
 3. Run the server: `node server.js`
 4. Open your browser and visit `http://localhost:3000`
