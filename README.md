@@ -25,5 +25,4 @@ Quick Chat Hub is my first full-stack project—a real-time chat application bui
 Feel free to explore, contribute, and share your feedback as I embark on this coding journey!
 
 ## Author
-
-[Your Name]
+Shiv
